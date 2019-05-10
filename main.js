@@ -28,7 +28,7 @@ $(document).ready(function () {
     })
 });
 
-const info = ['Web Developer', 'and', 'Web Designer'];
+const info = ['Web Developer'];
 let counter = 0;
 let index = 0;
 let currentText = '';
